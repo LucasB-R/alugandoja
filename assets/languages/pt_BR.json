@@ -1,0 +1,12 @@
+{
+  "form_validation_currency": "O {label} é inválido",
+  "form_validation_currency_positive": "O {label} é inválido",
+  "form_validation_email": "O {label} é inválido",
+  "form_validation_max_length": "O {label} deve conter no máximo {length} caracteres",
+  "form_validation_max_number": "O {label} deve ser no máximo {number}",
+  "form_validation_min_length": "O {label} deve conter no mínimo {length} caracteres",
+  "form_validation_number": "O {label} deve ser um número",
+  "form_validation_number_decimal": "O {label} é inválido",
+  "form_validation_phone_number": "O {label} é inválido",
+  "form_validation_required": "{label} deve ser preenchido"
+}

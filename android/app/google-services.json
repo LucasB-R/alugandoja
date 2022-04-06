@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "212971034148",
+    "project_id": "alugandoja-3852b",
+    "storage_bucket": "alugandoja-3852b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212971034148:android:0e84ef728c8cec8cb72ab1",
+        "android_client_info": {
+          "package_name": "com.alugandoja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212971034148-1akhk00cadb6cptpoec7k1nmkpib36s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3arlLyGNupwo4Xo9ZJj_dmja6xby0lIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212971034148-1akhk00cadb6cptpoec7k1nmkpib36s8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212971034148-1pnguhp5u27otjhos1cg80t6cqujkitk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alugandoja"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
